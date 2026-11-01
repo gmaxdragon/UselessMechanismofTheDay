@@ -5,5 +5,3 @@ So basically this will be a massive plugin for my old kindle where it will show 
 
 
 Also, I don't know why but in Hackatime it's saying I coded for an extra 2 hours 21 minutes and 3 seconds exactly.
-
-By the way, I have no coding experience at all. All my help will be from tutorials and friends.
